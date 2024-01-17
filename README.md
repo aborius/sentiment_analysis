@@ -14,6 +14,7 @@ Gli obiettivi chiave includono:
 - Analisi della Distribuzione del Sentimento: Valutare la distribuzione generale del sentimento tra le recensioni per valutare la soddisfazione o la insoddisfazione generale degli utenti.
 - Identificare Temi Chiave: Esaminare temi o argomenti comuni all'interno di ciascuna categoria di sentimento per individuare specifiche aree di forza o preoccupazione nell'esperienza dell'utente dell'app.
 
+
 Sentiment Analysis: Sommario
 
 Quindi, la Sentiment Analysis delle Recensioni delle App è uno strumento prezioso per sviluppatori di app e aziende al fine di comprendere il feedback degli utenti,
