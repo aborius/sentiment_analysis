@@ -1,6 +1,7 @@
 Sentiment Analysis
 
 Sentiment Analysis: Overview
+
 La Sentiment Analysis, spesso definita anche come opinion mining, è un campo del Natural Language Processing (NLP) che si concentra sull'identificare e categorizzare 
 le opinioni espresse nel testo al fine di determinare l'atteggiamento dello scrittore nei confronti di un particolare argomento o la polarità complessiva del contesto del testo.
 
@@ -14,6 +15,7 @@ Gli obiettivi chiave includono:
 - Identificare Temi Chiave: Esaminare temi o argomenti comuni all'interno di ciascuna categoria di sentimento per individuare specifiche aree di forza o preoccupazione nell'esperienza dell'utente dell'app.
 
 Sentiment Analysis: Sommario
+
 Quindi, la Sentiment Analysis delle Recensioni delle App è uno strumento prezioso per sviluppatori di app e aziende al fine di comprendere il feedback degli utenti,
 dare priorità agli aggiornamenti delle funzionalità e mantenere una comunità utenti positiva. Coinvolge l'utilizzo di tecniche di analisi dati per determinare se i
 sentimenti in queste recensioni sono positivi, negativi o neutri.
