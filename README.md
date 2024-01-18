@@ -1,22 +1,21 @@
-Sentiment Analysis
+# Sentiment Analysis
 
-Sentiment Analysis: Overview
+## Sentiment Analysis: Overview
 
-La Sentiment Analysis, spesso definita anche come opinion mining, è un campo del Natural Language Processing (NLP) che si concentra sull'identificare e categorizzare 
-le opinioni espresse nel testo al fine di determinare l'atteggiamento dello scrittore nei confronti di un particolare argomento o la polarità complessiva del contesto del testo.
+La Sentiment Analysis, anche conosciuta come opinion mining, è un ramo del Natural Language Processing (NLP) focalizzato sull'identificazione e categorizzazione delle opinioni espresse nei testi. L'obiettivo è determinare l'atteggiamento dello scrittore verso un particolare argomento o la polarità complessiva del contesto del testo.
 
-Il dataset fornito comprende recensioni degli utenti dell'app LinkedIn, una piattaforma di networking professionale. Esso include le seguenti colonne:
-- Recensione: Questa colonna contiene il testo effettivo della recensione dell'utente. Fornisce approfondimenti qualitativi sull'esperienza dell'utente con l'app, evidenziando apprezzamenti, lamentele, suggerimenti e commenti generali.
-- Valutazione: Le valutazioni numeriche, che vanno da 1 a 5, accompagnano le recensioni, con 1 rappresentante il punteggio più basso e 5 il punteggio più alto. Queste valutazioni forniscono una misura quantitativa della soddisfazione dell'utente.
-L'obiettivo principale di questo studio è eseguire una Sentiment Analysis completa sulle recensioni degli utenti dell'app LinkedIn. L'analisi mira a comprendere il sentimento
-generale della base utenti, correlando il feedback testuale con le valutazioni fornite.
-Gli obiettivi chiave includono:
-- Analisi della Distribuzione del Sentimento: Valutare la distribuzione generale del sentimento tra le recensioni per valutare la soddisfazione o la insoddisfazione generale degli utenti.
-- Identificare Temi Chiave: Esaminare temi o argomenti comuni all'interno di ciascuna categoria di sentimento per individuare specifiche aree di forza o preoccupazione nell'esperienza dell'utente dell'app.
+Il dataset fornito contiene recensioni degli utenti dell'app LinkedIn, una piattaforma di networking professionale. Le colonne principali sono:
 
+- **Recensione:** Contiene il testo effettivo della recensione degli utenti, offrendo approfondimenti qualitativi sull'esperienza con l'app. Include apprezzamenti, lamentele, suggerimenti e commenti generali.
+  
+- **Valutazione:** Valutazioni numeriche da 1 a 5 accompagnano le recensioni, dove 1 rappresenta il punteggio più basso e 5 il punteggio più alto. Fornisce una misura quantitativa della soddisfazione dell'utente.
 
-Sentiment Analysis: Sommario
+Lo studio mira a condurre una Sentiment Analysis completa sulle recensioni degli utenti di LinkedIn. Gli obiettivi principali includono:
 
-Quindi, la Sentiment Analysis delle Recensioni delle App è uno strumento prezioso per sviluppatori di app e aziende al fine di comprendere il feedback degli utenti,
-dare priorità agli aggiornamenti delle funzionalità e mantenere una comunità utenti positiva. Coinvolge l'utilizzo di tecniche di analisi dati per determinare se i
-sentimenti in queste recensioni sono positivi, negativi o neutri.
+- **Analisi della Distribuzione del Sentimento:** Valutare la distribuzione generale del sentimento nelle recensioni per comprendere la soddisfazione o insoddisfazione degli utenti.
+
+- **Identificare Temi Chiave:** Esaminare temi o argomenti comuni all'interno di ciascuna categoria di sentimento per individuare aree specifiche di forza o preoccupazione nell'esperienza dell'utente.
+
+## Sentiment Analysis: Sommario
+
+La Sentiment Analysis delle recensioni delle app è uno strumento prezioso per sviluppatori e aziende. Aiuta a comprendere il feedback degli utenti, a dare priorità agli aggiornamenti delle funzionalità e a mantenere una comunità utenti positiva. Coinvolge l'utilizzo di tecniche di analisi dati per determinare se i sentimenti nelle recensioni sono positivi, negativi o neutri.
